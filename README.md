@@ -1,6 +1,4 @@
-# Beginner’s Guide to Cybersecurity & Programming (2025)
-
-> A practical, hands-on path from zero → capable. Opinionated, ethical, and full of examples you can run today.
+# Classic Guide to programming and cybersec
 
 ---
 
